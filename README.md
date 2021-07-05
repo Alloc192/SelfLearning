@@ -13,4 +13,7 @@
   <li><a href="https://github.com/jwC-electr/SelfLearning/blob/Patterns/StructuralPatterns/bridge.h">Bridge<a></li>
   <li><a href="https://github.com/jwC-electr/SelfLearning/blob/Patterns/StructuralPatterns/composite.h">Composite<a></li>
   <li><a href="https://github.com/jwC-electr/SelfLearning/blob/Patterns/StructuralPatterns/decorator.h">Decorator<a></li>
+  <li><a href="https://github.com/jwC-electr/SelfLearning/blob/Patterns/StructuralPatterns/facade.h">Facade<a></li>
+  <li><a href="https://github.com/jwC-electr/SelfLearning/blob/Patterns/StructuralPatterns/flyweight.h">Flyweight<a></li>
+  <li><a href="https://github.com/jwC-electr/SelfLearning/blob/Patterns/StructuralPatterns/proxy.h">Proxy<a></li>
 </ul>
