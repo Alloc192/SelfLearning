@@ -23,4 +23,10 @@
   <li><a href="https://github.com/jwC-electr/SelfLearning/blob/Patterns/BehavioralPatterns/command.h">Command<a></li>
   <li><a href="https://github.com/jwC-electr/SelfLearning/blob/Patterns/BehavioralPatterns/iterator.h">Iterator<a></li>
   <li><a href="https://github.com/jwC-electr/SelfLearning/blob/Patterns/BehavioralPatterns/mediator.h">Mediator<a></li>
+  <li><a href="https://github.com/jwC-electr/SelfLearning/blob/Patterns/BehavioralPatterns/memento.h">Memento<a></li>
+  <li><a href="https://github.com/jwC-electr/SelfLearning/blob/Patterns/BehavioralPatterns/observer.h">Observer<a></li>
+  <li><a href="https://github.com/jwC-electr/SelfLearning/blob/Patterns/BehavioralPatterns/state.h">State<a></li>
+  <li><a href="https://github.com/jwC-electr/SelfLearning/blob/Patterns/BehavioralPatterns/strategy.h">Strategy<a></li>
+  <li><a href="https://github.com/jwC-electr/SelfLearning/blob/Patterns/BehavioralPatterns/template_method.h">Template Method<a></li>
+  <li><a href="https://github.com/jwC-electr/SelfLearning/blob/Patterns/BehavioralPatterns/visitor.h">Visitor<a></li>
 </ul>
